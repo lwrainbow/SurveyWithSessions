@@ -1,5 +1,5 @@
 # Multi-paged Survey with sessions
-<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/portfolio/SurveyWithSessions/index.php">Try it</a></p>
+<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/SurveyWithSessions/index.php">Try it</a></p>
 <ul>
   <li>Use FormValidation2 as base. Add interactive checking with JavaScript, much as I did in FormValidation1, only using regular expressions this time.</li>
   <li>Every time user move away from a field, an onblur event to validate the field.</li>
